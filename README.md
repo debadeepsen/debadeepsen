@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debadeepsen
 - 👀 I’m interested in JavaScript development
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native and Kotlin
 - 💞️ I’m looking to collaborate on open-source JavaScript projects
 - 📫 How to reach me - http://www.debadeepsen.com
 
